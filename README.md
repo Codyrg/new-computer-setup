@@ -29,6 +29,8 @@ A list of software I used daily that needs to be set up when upgrading to a new 
 - IntelliJ
 - Rider
 - MySQL/MySQL WorkBench
+- Arduino IDE
+- Spring Tools Suite
 
 ### Gaming
 - Steam
@@ -37,4 +39,4 @@ A list of software I used daily that needs to be set up when upgrading to a new 
 - Runescape 3 Client
 
 ### Other
-- Set up SSH to persnal github account
+- Set up SSH to personal github account
